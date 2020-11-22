@@ -15,3 +15,10 @@ Este es un texto **importante**
     * Listar carpeta: ls
     * Eliminar carpeta: em - rf
 * Markdown Basico
+* Manejo basico de arcvhios
+    * Abrir un archivo
+    * Leer el contenido
+    * Modificar el contenido
+    * Guardar el arcvhivo
+    * Cerrar el archivo
+    
